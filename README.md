@@ -139,3 +139,7 @@ The notebook explores whether past-year crime values and population-related feat
 - train/test split.
 - model type.
 - outlier handling.
+
+## Author
+
+**Shivam Dwivedi**
